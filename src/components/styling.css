@@ -5,7 +5,7 @@ p {
 }
 
 button {
-  background-color: #5c94ce;
+  background-color: #0aa78c;
   border-radius: 15px;
   color: white;
   padding: 15px 32px;
@@ -54,7 +54,7 @@ td {
 h1 {
   padding: 50px;
   text-align: center;
-  background: #5c94ce;
+  background: #0aa78c;
   color: white;
   font-size: 60px;
 }
